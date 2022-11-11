@@ -7,7 +7,6 @@ body {
                                        rgb(15, 133, 113) 50%, 
                                        hsla(210, 80%, 29%, 1) 75%,  
                                        hsla(282, 58%, 47%, 1) 100%);
-    animation: gradient 40s ease infinite;
     background-size: 300% 300%;
 }
 
